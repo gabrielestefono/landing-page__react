@@ -1,0 +1,22 @@
+.leftSide{
+    display: flex;
+    width: 100vw;
+    justify-content: center;
+}
+
+.leftSideImg{
+    width: 18.5rem;
+    margin-top: 4.375rem;
+}
+
+@media screen and (min-width: 376px) {
+    .leftSide{
+        width: auto;
+    }
+
+    .leftSideImg{
+        width: 43.4rem;
+        height: 31rem;
+        margin-top: 0;
+    }
+}
