@@ -1,0 +1,20 @@
+.header{
+    width: 100vw;
+}
+
+.headerNavbarImg{
+    width: 7.5rem;
+    height: 19px;
+    margin-left: 40px;
+    margin-top: 38px;
+}
+
+@media screen and (min-width: 376px) {
+    .headerNavbarImg{
+        width: 12.5rem;
+        height: 2rem;
+        margin-left: 80px;
+        margin-top: 64px;
+        transform: scale(1.05);
+    }
+}
