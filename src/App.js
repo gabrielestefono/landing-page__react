@@ -1,10 +1,13 @@
 import Header from "./components/Header";
+import Main from "./components/Main";
 import './styles/style.css';
 
 function App() {
   return (
     <>
-      <Header></Header>
+      <Header/>
+      <Main lado1="seila mermão" lado2="Ata, sei sim">
+      </Main>
     </>
   );
 }
