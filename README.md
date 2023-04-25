@@ -39,7 +39,7 @@ A página é uma web aplicação é uma página, landing page feita em React.JS 
 email: gabrielestefono@hotmail.com
 
 ## Link do deploy
-https://gabrielestefono.github.io/Componente_QR_Code_React/
+https://gabrielestefono.github.io/landing-page_react/
 
 ## Screenshot
 ![image](https://user-images.githubusercontent.com/104292192/234360617-49a8f6a2-3fcb-4324-b1f8-793e8f05ce38.png)
